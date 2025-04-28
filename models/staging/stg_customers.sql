@@ -23,3 +23,4 @@ renamed as (
 select * from renamed
 -- comment
 -- another comment
+-- one more comment
