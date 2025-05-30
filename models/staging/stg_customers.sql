@@ -23,3 +23,4 @@ renamed as (
 )
 
 select * from renamed
+-- 99 is not 100
