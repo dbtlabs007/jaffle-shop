@@ -1,5 +1,3 @@
--- comment made through dbt cloud IDE
--- comment made through GitHub
 with
 
 source as (
@@ -23,3 +21,4 @@ renamed as (
 )
 
 select * from renamed
+
