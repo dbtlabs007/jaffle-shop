@@ -1,0 +1,4 @@
+models:
+  - name: metricflow_time_spine
+    config:
+      static_analysis: unsafe
